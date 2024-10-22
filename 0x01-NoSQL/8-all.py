@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-
-
 """
     list all docs in a collection
 """
